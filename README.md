@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barnavo Dey</h1>
 <h3 align="center">Passionate Software & Web Developer | Exploring the World of AI & ML</h3>
 
-- I'm a 3rd-year Computer Science & Engineering student passionate about **Web Development, AI/ML, and Cloud Technologies**. I love building **scalable applications** and exploring **cutting-edge technologies.**
+- I'm a 4th-year Computer Science & Engineering student passionate about **Web Development, AI/ML, and Cloud Technologies**. I love building **scalable applications** and exploring **cutting-edge technologies.**
 
 - <h3 align="left"> 🚀 Projects </h3>
 - 🔹 Fruit Quality Monitoring (Intel Collaboration)(https://github.com/barnavo05/fruit-quality-monitoring)
